@@ -26,7 +26,7 @@ The sentiment analysis model is trained on the Amazon Fine Food Reviews dataset,
 - `amazon_finefood_sentiment_analysis_interface.ipynb`: Code for building the Gradio interface.
 - `sentiment_analysis_finetune_bert.pkl`: Trained sentiment analysis model in pkl format.
 - `rnn_lstm_gru.py`:code for Training sentiment analysis model using LSTM GRU RNN.
-- result.ipynb`:code of result of comparison between LSTM, GRU, RNN and finetuned BERT Base.
+- `result.ipynb`:code of result of comparison between LSTM, GRU, RNN and finetuned BERT Base.
 
 **Usage:**
 
