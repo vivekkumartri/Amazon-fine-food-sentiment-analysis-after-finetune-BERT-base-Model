@@ -1,8 +1,8 @@
 # Amazon Fine Food Sentiment Analysis with BERT
 
-This repository contains code for a sentiment analysis demo that predicts the sentiment of Amazon fine food reviews using a finetuned BERT Base model from the Hugging Face Transformers library. The demo also includes an interface built using Gradio, allowing users to interactively input reviews and receive sentiment predictions.
+This repository contains code for a sentiment analysis demo that predicts the sentiment of Amazon fine food reviews using a finetuned BERT Base model from the Hugging Face Transformers library. The model also includes an interface built using Gradio, allowing users to interactively input reviews and receive sentiment predictions.
 
-## About the Demo
+## About the model
 
 The sentiment analysis model is trained on the Amazon Fine Food Reviews dataset, which includes:
 
@@ -30,7 +30,7 @@ The sentiment analysis model is trained on the Amazon Fine Food Reviews dataset,
 
 **Usage:**
 
-To run the code and interact with the sentiment analysis demo:
+To run the code and interact with the sentiment analysis :
 
 1. Open `amazon_finefood_sentiment_analysis_interface.ipynb`.
 2. Set the file path to `sentiment_analysis_finetune_bert.pkl`.
