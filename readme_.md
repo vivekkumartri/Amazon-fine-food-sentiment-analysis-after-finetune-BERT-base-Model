@@ -1,4 +1,4 @@
-# README
+# Mini Project 2 (GNR 638)
 
 ## Introduction
 This repository contains code for training and testing a Uformer network for image deblurring. The Uformer network is a deep learning architecture designed for image restoration tasks.
