@@ -33,7 +33,3 @@ python evaluation.py /path/to/blurry/images /path/to/output/directory /path/to/c
 
 This script will take the blurry images from `<blur_image_dir>`, deblur them using the trained model checkpoint specified by `<checkpoint_path>`, and save the deblurred images to `<output_dir>`.
 
-## Note
-Ensure that your system has sufficient resources (especially GPU memory) to train and evaluate the Uformer network, as these tasks can be computationally intensive.
-
-For any further questions or issues, please feel free to contact the repository owner.
